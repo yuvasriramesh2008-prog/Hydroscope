@@ -1,0 +1,10 @@
+{
+  "name": "HydroScope — Satellite-AI Water Intelligence",
+  "description": "See Water. Predict Change. Act Before Drought. Satellite-based surface-water monitoring, historical trend analysis, forecasting, and drought-risk intelligence.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
